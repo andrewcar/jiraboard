@@ -1,0 +1,6 @@
+framework module Pods_jiraboardUITests {
+  umbrella header "Pods-jiraboardUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
